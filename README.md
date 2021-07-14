@@ -1,4 +1,4 @@
-![alt MATE Programming Lab](https://github.com/MATE-Programming/Lab_logo/blob/main/lab_16.svg?raw=true)
+![alt MATE Programming Lab](https://github.com/MATE-Programming/Lab_logo/blob/main/lab_14.svg?raw=true)
 # Практическое задание на создание формы регистрации пользователей
      Сделайте презентацию программы, загрузите видео в youtube и отправьте ссылку в LMS.
 
